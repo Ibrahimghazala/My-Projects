@@ -1,0 +1,1 @@
+{"uuid":"6b6d1eb6-c65f-43b4-b92b-d0376cd06128","name":"TESTS.TC07_Deposit.QUIT","children":["c1c52eb2-f20c-411f-bc8d-26877286fd5c"],"description":"","befores":[],"afters":[{"name":"QUIT","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1746072112333,"stop":1746072112653}],"start":1746072112333,"stop":1746072112653}

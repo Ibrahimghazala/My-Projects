@@ -1,0 +1,1 @@
+{"uuid":"7ec553e3-fcdb-4ea5-9116-ff8228e2f957","name":"TESTS.TC08_Withdraw.setup","children":["c3e0a531-5ff6-4166-9cc5-8603856975db"],"description":"","befores":[{"name":"setup","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1746072161063,"stop":1746072164897}],"afters":[],"start":1746072161055,"stop":1746072164898}

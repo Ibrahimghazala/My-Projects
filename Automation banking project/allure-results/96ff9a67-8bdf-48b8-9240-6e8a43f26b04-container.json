@@ -1,0 +1,1 @@
+{"uuid":"96ff9a67-8bdf-48b8-9240-6e8a43f26b04","name":"TESTS.TC03_AddAccount.setup","children":["618cb00f-b2f4-407c-b4f1-f4298b094a0b"],"description":"","befores":[{"name":"setup","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1745995947920,"stop":1745995955882}],"afters":[],"start":1745995947920,"stop":1745995955907}

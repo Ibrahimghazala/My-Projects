@@ -1,0 +1,1 @@
+{"uuid":"82c6fc0c-5bbd-48ba-80c2-2ca20b744e71","name":"TESTS.TC07_Deposit.setup","children":["a22a5663-f9b4-4984-825a-e83420c828a7"],"description":"","befores":[{"name":"setup","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1743691394999,"stop":1743691400124}],"afters":[],"start":1743691394999,"stop":1743691400124}

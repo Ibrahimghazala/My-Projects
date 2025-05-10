@@ -1,0 +1,1 @@
+{"uuid":"a8a28de3-902f-4d34-bbe0-0024d7d189bf","name":"TESTS.TC09_FundTransfer.setup","children":["9fc5d1a1-adab-4b79-a0a7-e17e249e57da"],"description":"","befores":[{"name":"setup","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1746072741836,"stop":1746072746414}],"afters":[],"start":1746072741836,"stop":1746072746414}

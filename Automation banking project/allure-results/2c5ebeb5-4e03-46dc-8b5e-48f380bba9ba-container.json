@@ -1,0 +1,1 @@
+{"uuid":"2c5ebeb5-4e03-46dc-8b5e-48f380bba9ba","name":"TESTS.TC01_LogPage.QUIT","children":["67a0d836-d6ba-41fd-994a-6e65313e322e"],"description":"","befores":[],"afters":[{"name":"QUIT","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1743692916989,"stop":1743692917313}],"start":1743692916988,"stop":1743692917313}

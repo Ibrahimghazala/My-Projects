@@ -1,0 +1,1 @@
+{"uuid":"7a440a44-4918-46f0-a802-f4eedc988009","name":"TESTS.Tc10_LogOut.setup","children":["3122bba7-b18b-4a94-b033-7aa9652ba703"],"description":"","befores":[{"name":"setup","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1746074540203,"stop":1746074545369}],"afters":[],"start":1746074540201,"stop":1746074545370}

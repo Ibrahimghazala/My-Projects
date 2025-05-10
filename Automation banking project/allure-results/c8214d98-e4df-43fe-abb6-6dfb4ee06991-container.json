@@ -1,0 +1,1 @@
+{"uuid":"c8214d98-e4df-43fe-abb6-6dfb4ee06991","name":"TESTS.TC05_DeleteCustomer.setup","children":["b2afb6b8-e81e-4dac-8dd7-4ce6083d45f2"],"description":"","befores":[{"name":"setup","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1746077221498,"stop":1746077233085}],"afters":[],"start":1746077221497,"stop":1746077233086}

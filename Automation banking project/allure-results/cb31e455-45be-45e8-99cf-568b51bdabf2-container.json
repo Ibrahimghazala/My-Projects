@@ -1,0 +1,1 @@
+{"uuid":"cb31e455-45be-45e8-99cf-568b51bdabf2","name":"TESTS.TC05_DeleteCustomer.QUIT","children":["6092be82-d8d8-40a1-9ffb-0d7ac6826e9a"],"description":"","befores":[],"afters":[{"name":"QUIT","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1746071152140,"stop":1746071152882}],"start":1746071152140,"stop":1746071152920}

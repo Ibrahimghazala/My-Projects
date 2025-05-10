@@ -1,0 +1,1 @@
+{"uuid":"a4596820-5ba5-4b2a-8aea-25a49d2b8dcb","name":"TESTS.TC03_AddAccount.QUIT","children":["618cb00f-b2f4-407c-b4f1-f4298b094a0b"],"description":"","befores":[],"afters":[{"name":"QUIT","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1745995962888,"stop":1745995962889}],"start":1745995962887,"stop":1745995962889}

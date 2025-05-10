@@ -1,0 +1,1 @@
+{"uuid":"31549534-32df-4504-be4c-0a1a88fbeef1","name":"TESTS.TC09_FundTransfer.QUIT","children":["9fc5d1a1-adab-4b79-a0a7-e17e249e57da"],"description":"","befores":[],"afters":[{"name":"QUIT","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1746072749170,"stop":1746072749170}],"start":1746072749170,"stop":1746072749170}

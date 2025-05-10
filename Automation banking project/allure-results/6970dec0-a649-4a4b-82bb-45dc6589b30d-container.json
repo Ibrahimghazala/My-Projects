@@ -1,0 +1,1 @@
+{"uuid":"6970dec0-a649-4a4b-82bb-45dc6589b30d","name":"TESTS.TC01_LogPage.setup","children":["89db46dd-2c44-43a1-8311-7c82714c4615"],"description":"","befores":[{"name":"setup","status":"broken","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1746076513025,"stop":1746076513026}],"afters":[],"start":1746076513025,"stop":1746076513026}

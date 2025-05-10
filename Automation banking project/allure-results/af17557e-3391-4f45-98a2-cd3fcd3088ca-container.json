@@ -1,0 +1,1 @@
+{"uuid":"af17557e-3391-4f45-98a2-cd3fcd3088ca","name":"TESTS.TC04_EditCustomer.setup","children":["eca9ee60-1f75-40c7-8002-ee413357909f"],"description":"","befores":[{"name":"setup","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1745997303972,"stop":1745997311424}],"afters":[],"start":1745997303972,"stop":1745997311440}

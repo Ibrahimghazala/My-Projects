@@ -1,0 +1,1 @@
+{"uuid":"f3077bef-8fce-4201-9824-96bb4a99a623","name":"TESTS.TC02_NewCustomer.setup","children":["6e2ceec2-17c7-4d43-8711-110d085cdba2"],"description":"","befores":[{"name":"setup","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1746076807292,"stop":1746076814649}],"afters":[],"start":1746076807291,"stop":1746076814651}
